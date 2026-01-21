@@ -42,7 +42,7 @@
       <w>160</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>:Kalkulationsprogram
+    <panel_attributes>_:Kalkulationsprogram_
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -88,7 +88,7 @@ Eingabe der Baumaschinen()</panel_attributes>
       <w>100</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>:berechnung</panel_attributes>
+    <panel_attributes>_:berechnung_</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -136,5 +136,16 @@ Summe(Ressourcen)</panel_attributes>
     </coordinates>
     <panel_attributes>Ausgabe der Summe(Ressourcen)</panel_attributes>
     <additional_attributes>10.0;20.0;280.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>190</x>
+      <y>160</y>
+      <w>830</w>
+      <h>590</h>
+    </coordinates>
+    <panel_attributes>Kalkulationsrogramm</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>
