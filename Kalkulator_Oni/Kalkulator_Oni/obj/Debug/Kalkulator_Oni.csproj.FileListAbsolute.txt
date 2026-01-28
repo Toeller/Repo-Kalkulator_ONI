@@ -1,0 +1,9 @@
+H:\FOS 21\Software\git\vsProjekt\Kalkulator_Oni\Kalkulator_Oni\bin\Debug\Kalkulator_Oni.exe.config
+H:\FOS 21\Software\git\vsProjekt\Kalkulator_Oni\Kalkulator_Oni\bin\Debug\Kalkulator_Oni.exe
+H:\FOS 21\Software\git\vsProjekt\Kalkulator_Oni\Kalkulator_Oni\bin\Debug\Kalkulator_Oni.pdb
+H:\FOS 21\Software\git\vsProjekt\Kalkulator_Oni\Kalkulator_Oni\obj\Debug\Kalkulator_Oni.csproj.AssemblyReference.cache
+H:\FOS 21\Software\git\vsProjekt\Kalkulator_Oni\Kalkulator_Oni\obj\Debug\Kalkulator_Oni.Properties.Resources.resources
+H:\FOS 21\Software\git\vsProjekt\Kalkulator_Oni\Kalkulator_Oni\obj\Debug\Kalkulator_Oni.csproj.GenerateResource.cache
+H:\FOS 21\Software\git\vsProjekt\Kalkulator_Oni\Kalkulator_Oni\obj\Debug\Kalkulator_Oni.csproj.CoreCompileInputs.cache
+H:\FOS 21\Software\git\vsProjekt\Kalkulator_Oni\Kalkulator_Oni\obj\Debug\Kalkulator_Oni.exe
+H:\FOS 21\Software\git\vsProjekt\Kalkulator_Oni\Kalkulator_Oni\obj\Debug\Kalkulator_Oni.pdb
